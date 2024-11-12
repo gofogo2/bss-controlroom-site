@@ -24,7 +24,7 @@ function App() {
       {/* <div className="fixed top-0 left-0 w-full bg-black text-white p-2 text-center z-50">
         현재 해상도: {windowSize.width} x {windowSize.height}
       </div> */}
-
+ 
       {/* Main Content Container */}
       <div className="flex min-h-screen pt-0"> {/* pt-12 to account for fixed header */}
         {/* Left Image */}
